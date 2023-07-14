@@ -4,7 +4,7 @@
 /**
  *  main - Entry point
  *
- * Description: A c program that prints with put function
+ * Description: A c program that prints if it greater or equal or less than 5
  *
  * Return: Always 0 (Success)
  */
