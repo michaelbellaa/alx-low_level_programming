@@ -4,7 +4,7 @@
 /**
  * main - Entry point
  *
- * Description: print all alphabet letters except q and e:wq:
+ * Description: print all alphabet letters except q and e
  *
  * Return: Always 0 (Success)
 */
