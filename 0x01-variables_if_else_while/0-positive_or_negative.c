@@ -5,7 +5,7 @@
 /**
  * main - entry point
  *
- * Description: positive or negative
+ * Description: false or true validation
  *
  * Return : 0 (success)
 */
@@ -22,7 +22,6 @@ int main(void)
 		printf("%i is zero\n", n);
 	else
 		printf("%i is negative\n", n);
-
 	return (0);
 }
 
