@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main - fbvhifhdvbihbv
+ * main - generated random passwords for 101-crackns
  * Return: zero
 */
 
@@ -19,6 +19,6 @@ int main(void)
 		sum += c;
 		putchar(c);
 	}
-	putchar(2272 - sum);
+	putchar(2772 - sum);
 	return (0);
 }
