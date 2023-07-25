@@ -4,7 +4,7 @@
 
 /**
  * main - fbvhifhdvbihbv
- * return: zero
+ * Return: zero
 */
 
 int main(void)
@@ -19,6 +19,6 @@ int main(void)
 		sum += c;
 		putchar(c);
 	}
-	putchar(2772 - sum);
+	putchar(2272 - sum);
 	return (0);
 }
