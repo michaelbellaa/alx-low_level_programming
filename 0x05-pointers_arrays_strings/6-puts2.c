@@ -1,6 +1,8 @@
 #include "main.h"
 
 /**
+ * puts2 - prints every character of a string
+ *
  * puts - prints every character of a string
  *
  * @str:  jsdvfcdgycvweyvc
