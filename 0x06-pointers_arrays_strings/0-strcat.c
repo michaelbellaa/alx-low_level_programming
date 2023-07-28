@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- * _stract - sdvgvbsydhbvcsdvjk feihubgfbbvf
+ * _strcat - sdvgvbsydhbvcsdvjk feihubgfbbvf
  *	dsnjdvnju
  *
- * @dest: dsfciuvcbnvubnusd
- * @src: kvsdnsdvnujsvbn
+ * @dest: pointer to destination input
+ * @src: pointer to soure input
  *
- * Return: fdvnbjfsdnvfjsd
+ * Return: pointer to resulting string @dest
 */
 
 char *_strcat(char *dest, char *src)
