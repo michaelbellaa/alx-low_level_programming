@@ -2,7 +2,7 @@
 
 /**
  * *_strchr - fdvonvfdujfd
- * @S: fdsnvnfisd
+ * @s: fdsnvnfisd
  * @c: hsvdgyuvg
  * Return: vsinjdvsdijb
 */
