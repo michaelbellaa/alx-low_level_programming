@@ -7,7 +7,7 @@
  * @accept: chsdvchg
  * Return: dscgvusdg
 */
-unsigned int _strspn(char *s, char *accept);
+unsigned int _strspn(char *s, char *accept)
 {
 	unsigned int itr, jtr;
 
