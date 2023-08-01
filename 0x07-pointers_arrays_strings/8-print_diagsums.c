@@ -4,7 +4,7 @@
 /**
  * print_diagsums - vfjshghtr
  * @a: dacfvcnjbhkb
- * @siza: size jhvf
+ * @size: size jhvf
 */
 
 void print_diagsums(int *a, int size)
@@ -14,9 +14,9 @@ void print_diagsums(int *a, int size)
 	for (itr = 0; itr < size; itr++)
 	{
 		s1 += a[itr];
-		s2 += a[size - itr -1];
+		s2 += a[size - itr - 1];
 		a += size;
 	}
-	printf("%d, ",s1);
+	printf("%d, ", s1);
 	printf("%d\n", s2);
 }
