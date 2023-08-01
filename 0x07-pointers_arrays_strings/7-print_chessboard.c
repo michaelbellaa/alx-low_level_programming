@@ -3,7 +3,7 @@
 /**
  * print_chessboard - cdsbuydsc
  *
- * &a: rows
+ * @a: rows
  * Return: vbcvuyh
 */
 
