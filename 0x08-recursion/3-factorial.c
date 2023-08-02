@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * factorial: jfdvhnfu
+ * factorial - jfdvhnfu
  * @n: fdishniufh
  * Return: dvchjb
 */
