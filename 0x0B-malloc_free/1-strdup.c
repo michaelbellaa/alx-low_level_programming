@@ -1,17 +1,16 @@
 #include "main.h"
+#include <stdio.h>
+#include <stdlib.h>
 
 /**
  * *_strdup -  weifbfgiu
  * @str: svnfdi
- * @i: dvmnsoinv
- * @size: sdvni
- * @m: sidnfiub
  * Return: fjsdvnoiv
 */
 
 char *_strdup(char *str)
 {
-	int i = 0; size = 0;
+	int i = 0 size = 0;
 	char *m;
 
 	if (str == NULL)
@@ -23,7 +22,9 @@ char *_strdup(char *str)
 	m = malloc(size * sizeof(*str) + 1);
 
 	if (m == 0)
+	{
 		return (NULL);
+	}
 	else
 	{
 		for (; i < size; i++)
